@@ -1,0 +1,19 @@
+<svg viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="goldMain" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#fff0a6" />
+            <stop offset="45%" stop-color="#d4af37" />
+            <stop offset="100%" stop-color="#8c6914" />
+        </linearGradient>
+        <linearGradient id="bgMain" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1a2744" />
+            <stop offset="100%" stop-color="#070c17" />
+        </linearGradient>
+    </defs>
+    <polygon points="200,15 370,108 370,292 200,385 30,292 30,108" fill="url(#bgMain)" stroke="url(#goldMain)" stroke-width="14"/>
+    <polygon points="200,42 342,120 342,280 200,358 58,280 58,120" fill="none" stroke="url(#goldMain)" stroke-width="4" stroke-opacity="0.55"/>
+    <polygon points="200,68 222,96 252,78 238,116 162,116 148,78 178,96" fill="url(#goldMain)"/>
+    <path d="M 252 152 C 252 126, 148 126, 148 158 C 148 190, 252 188, 252 226 C 252 264, 142 264, 142 232" fill="none" stroke="url(#goldMain)" stroke-width="24" stroke-linecap="round"/>
+    <line x1="135" y1="295" x2="265" y2="295" stroke="url(#goldMain)" stroke-width="9" stroke-linecap="round"/>
+    <polygon points="200,280 214,295 200,310 186,295" fill="url(#goldMain)"/>
+</svg>
